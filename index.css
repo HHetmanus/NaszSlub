@@ -3,5 +3,6 @@
 }
 
 body {
-  background-image: url("https://weselnik.com/wp-content/uploads/2018/10/slub-konkordatowy.jpg");
+  background-image: url("Slub.jpg");
+  opacity: 0.2;
 }

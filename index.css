@@ -6,7 +6,8 @@ font-family: "Kalam";
 src= url("https://fonts.googleapis.com/css2?family=Kalam&display=swap") 
 }
 
-.pic {
+
+html { 
   background: url(Slub.jpg) no-repeat center center fixed; 
   -webkit-background-size: cover;
   -moz-background-size: cover;
@@ -14,17 +15,7 @@ src= url("https://fonts.googleapis.com/css2?family=Kalam&display=swap")
   background-size: cover;
   opacity: 0.2;
   
-  
 }
-
-*/html { 
-  background: url(Slub.jpg) no-repeat center center fixed; 
-  -webkit-background-size: cover;
-  -moz-background-size: cover;
-  -o-background-size: cover;
-  background-size: cover;
-  
-}*/
 .Tytul {
   font-family: "Kalam", cursive;
 }

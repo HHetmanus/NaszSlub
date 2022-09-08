@@ -1,6 +1,10 @@
 * {
   box-sizing: border-box;
 }
+@font-face {
+font-family: "Kalam";
+src= url("https://fonts.googleapis.com/css2?family=Kalam&display=swap") 
+}
 
 html { 
   background: url(Slub.jpg) no-repeat center center fixed; 
@@ -10,5 +14,7 @@ html {
   background-size: cover;
   opacity: 20%;
 }
+
+
 
 

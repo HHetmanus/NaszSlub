@@ -3,7 +3,7 @@
 }
 html {
   background-image: url("Slub.jpg") no-repeat center fixed;  
-  background-repeat: no-repeat;
+  background-size: cover;
   width: 100%;
   height: auto;
 }

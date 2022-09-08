@@ -2,7 +2,7 @@
   box-sizing: border-box;
 }
 html {
-  background-image: url("Slub.jpg") no-repeat center fixed;  
+  background-image: url("Slub.jpg") ;  
   background-size: cover;
 }
 

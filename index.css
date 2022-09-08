@@ -3,7 +3,8 @@
 }
 html {
   background-image: url("Slub.jpg");
-
+  background-repeat: no-repeat;
+  background-size: auto;
 }
 
 
